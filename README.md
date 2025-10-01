@@ -34,6 +34,9 @@ covid-19-visualization/
 2. Install the required libraries using:
    ```bash
    pip install pandas matplotlib numpy
+3. Execute the script with:
+python covid_analysis.py
+4. Visualizations will appear automatically in a new window.   
 
 
 
