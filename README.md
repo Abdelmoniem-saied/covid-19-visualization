@@ -24,17 +24,19 @@ This project leverages COVID-19 data from `worldometer_coronavirus_summary_data.
 
 ## 📂 Project Structure
 
+
 covid-19-visualization/
-├── covid_analysis.py                     # Main script containing all visualizations
-├── worldometer_coronavirus_summary_data.csv   # Dataset
-├── README.md                             # Project description and instructions
-├── line plot.png                         # Sample visualization
-├── Adjusting subplot spacing.png         # Sample visualization
-├── Figures & Subplots.png                # Sample visualization
-├── Histogram.png                          # Sample visualization
-├── Legends.png                            # Sample visualization
-├── Scatter Plot.png                       # Sample visualization
-└── Ticks & Labels.png                     # Sample visualization
+├── covid_analysis.py # Main script containing all visualizations
+├── worldometer_coronavirus_summary_data.csv # Dataset
+├── README.md # Project description and instructions
+├── line plot.png # Sample visualization
+├── Adjusting subplot spacing.png # Sample visualization
+├── Figures & Subplots.png # Sample visualization
+├── Histogram.png # Sample visualization
+├── Legends.png # Sample visualization
+├── Scatter Plot.png # Sample visualization
+└── Ticks & Labels.png # Sample visualization
+
 
 
 
