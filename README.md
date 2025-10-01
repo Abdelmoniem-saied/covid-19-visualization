@@ -78,18 +78,7 @@ python covid_analysis.py
 ![Ticks & Labels](Ticks%20&%20Labels.png)
 
 
-## 📝 Code Snippet
 
-Here’s a simple example of how the visualizations are generated:
-
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-
-data = pd.read_csv('worldometer_coronavirus_summary_data.csv')
-plt.plot(data['Confirmed'], label='Confirmed Cases')
-plt.legend()
-plt.show()
 ## 🚀 Future Improvements
 
 - 🖼️ Add interactive dashboards using **Plotly** or **Streamlit**  
