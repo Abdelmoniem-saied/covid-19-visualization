@@ -6,7 +6,13 @@ import numpy as np
 import pandas as pd
 
 
-df=pd.read_csv("d:\data science\worldometer_coronavirus_summary_data.csv")
+import pandas as pd
+import matplotlib.pyplot as plt
+
+data = pd.read_csv('worldometer_coronavirus_summary_data.csv')
+plt.plot(data['Confirmed'], label='Confirmed Cases')
+plt.legend()
+plt.show()
 
 
 # 1 line plot
