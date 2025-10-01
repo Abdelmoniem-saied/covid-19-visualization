@@ -30,32 +30,5 @@ covid-19-visualization/
 │── worldometer_coronavirus_summary_data.csv   # Dataset
 
 
-## ▶️ How to Run
-
-1. Make sure the CSV dataset is in the same directory as the script.  
-2. Run the script:
-
-```bash
-python covid_analysis.py
-## 📈 Sample Output
-
-*(You can add screenshots of your graphs here.)*
-
-## 🚀 Future Improvements
-
-- Add interactive dashboards using **Plotly** or **Streamlit**  
-- Export visualizations as **PNG / PDF** reports  
-- Automate daily updates from online sources  
-## 🤝 Connect With Me
-
-If you like this project, feel free to ⭐ it and follow my journey!
-
-- **GitHub:** [Abdelmoniem-saied](https://github.com/Abdelmoniem-saied)  
-- **Phone / WhatsApp:** +20 128 526 7285  
-- **Email:** 10112022105914@stud.cu.edu.eg  
-
-⭐ _Thanks for checking out my project!_
-
-
 
 
