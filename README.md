@@ -26,35 +26,14 @@ This project leverages COVID-19 data from `worldometer_coronavirus_summary_data.
 covid-19-visualization/
 ├── covid_analysis.py                   # Main script containing all visualizations
 └── worldometer_coronavirus_summary_data.csv  # Dataset
-text## ▶️ How to Run
+
+
+## ▶️ How to Run
 
 1. Ensure the `worldometer_coronavirus_summary_data.csv` file is in the same directory as `covid_analysis.py`.  
 2. Install the required libraries using:
    ```bash
    pip install pandas matplotlib numpy
-
-Execute the script with:
-bashpython covid_analysis.py
-
-Visualizations will appear automatically in a new window.
-
-📈 Sample Output
-(Insert screenshots of your visualizations here to showcase the results.)
-🚀 Future Improvements
-
-🖼️ Add interactive dashboards using Plotly or Streamlit
-📄 Export visualizations as PNG or PDF files
-🔄 Automate daily data updates from online sources
-
-🤝 Connect With Me
-If you enjoy this project, please ⭐ star it on GitHub and follow my journey!
-
-GitHub: Abdelmoniem-saied
-Phone/WhatsApp: +20 128 526 7285
-Email: 10112022105914@stud.cu.edu.eg
-
-
-⭐ Thank you for exploring my project! Feel free to share your feedback or suggestions!
 
 
 
