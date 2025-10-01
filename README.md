@@ -26,8 +26,9 @@ This project loads COVID-19 data from `worldometer_coronavirus_summary_data.csv`
 
 ```text
 covid-19-visualization/
-│── covid_analysis.py        # Main script with all visualizations
+│── covid_analysis.py                      # Main script with all visualizations
 │── worldometer_coronavirus_summary_data.csv   # Dataset
+
 
 ## ▶️ How to Run
 
