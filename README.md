@@ -51,18 +51,7 @@ covid-19-visualization/
 python covid_analysis.py
 4. Visualizations will appear automatically in a new window.   
 
-## 📝 Code Snippet
 
-Here’s a simple example of how the visualizations are generated:
-
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-
-data = pd.read_csv('worldometer_coronavirus_summary_data.csv')
-plt.plot(data['Confirmed'], label='Confirmed Cases')
-plt.legend()
-plt.show()
 
 
 ### 📈 Sample Output
