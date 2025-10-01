@@ -40,7 +40,28 @@ python covid_analysis.py
 
 
 ### 📈 Sample Output
-*(Insert screenshots of your visualizations here to showcase the results.)*
+
+**Line Plot:**
+![Line Plot](images/line plot.png)
+
+**Adjusting Subplot Spacing:**
+![Adjusting Subplot Spacing](images/Adjusting subplot spacing.png)
+
+**Figures & Subplots:**
+![Figures & Subplots](images/Figures & Subplots.png)
+
+**Histogram:**
+![Histogram](images/Histogram.png)
+
+**Legends:**
+![Legends](images/Legends.png)
+
+**Scatter Plot:**
+![Scatter Plot](images/Scatter Plot.png)
+
+**Ticks & Labels:**
+![Ticks & Labels](images/Ticks & Labels.png)
+
 
 ## 🚀 Future Improvements
 
