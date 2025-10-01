@@ -24,12 +24,10 @@ This project loads COVID-19 data from `worldometer_coronavirus_summary_data.csv`
 
 ## 📂 Project Structure
 
+```text
 covid-19-visualization/
-│── covid_analysis.py # Main script with all visualizations
-│── worldometer_coronavirus_summary_data.csv # Dataset
-
-csharp
-Copy code
+│── covid_analysis.py        # Main script with all visualizations
+│── worldometer_coronavirus_summary_data.csv   # Dataset
 
 ## ▶️ How to Run
 
@@ -38,31 +36,25 @@ Copy code
 
 ```bash
 python covid_analysis.py
-Visualizations will be displayed automatically.
+## 📈 Sample Output
 
-📈 Sample Output
-(You can add screenshots of your graphs here.)
+*(You can add screenshots of your graphs here.)*
 
-🚀 Future Improvements
-Add interactive dashboards using Plotly or Streamlit
+## 🚀 Future Improvements
 
-Export visualizations as PNG / PDF reports
+- Add interactive dashboards using **Plotly** or **Streamlit**  
+- Export visualizations as **PNG / PDF** reports  
+- Automate daily updates from online sources  
+## 🤝 Connect With Me
 
-Automate daily updates from online sources
-
-🤝 Connect With Me
 If you like this project, feel free to ⭐ it and follow my journey!
 
-GitHub: Abdelmoniem-saied
+- **GitHub:** [Abdelmoniem-saied](https://github.com/Abdelmoniem-saied)  
+- **Phone / WhatsApp:** +20 128 526 7285  
+- **Email:** 10112022105914@stud.cu.edu.eg  
 
-Phone / WhatsApp: +20 128 526 7285
+⭐ _Thanks for checking out my project!_
 
-Email: 10112022105914@stud.cu.edu.eg
-
-⭐ Thanks for checking out my project!
-
-markdown
-Copy code
 
 
 
