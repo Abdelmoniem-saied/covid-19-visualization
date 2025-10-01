@@ -39,4 +39,25 @@ python covid_analysis.py
 4. Visualizations will appear automatically in a new window.   
 
 
+### 📈 Sample Output
+*(Insert screenshots of your visualizations here to showcase the results.)*
+
+## 🚀 Future Improvements
+
+- 🖼️ Add interactive dashboards using **Plotly** or **Streamlit**  
+- 📄 Export visualizations as PNG or PDF files  
+- 🔄 Automate daily data updates from online sources  
+
+## 🤝 Connect With Me
+
+If you enjoy this project, please ⭐ star it on GitHub and follow my journey!
+
+- **GitHub**: [Abdelmoniem-saied](https://github.com/Abdelmoniem-saied)  
+- **Phone/WhatsApp**: +20 128 526 7285  
+- **Email**: [10112022105914@stud.cu.edu.eg](mailto:10112022105914@stud.cu.edu.eg)  
+
+---
+
+⭐ **Thank you for exploring my project!** Feel free to share your feedback or suggestions!
+
 
